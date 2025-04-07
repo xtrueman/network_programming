@@ -187,3 +187,10 @@ Upgrade: h2c
 - [Протокол HTTP](https://habr.com/ru/articles/813395/)
 - [Простым языком об HTTP](https://habr.com/ru/articles/215117/)
 - [Как открыть инструменты разработчика DevTools в браузере](https://skillbox.ru/media/code/chto-mozhno-delat-v-chrome-devtools-5-poleznykh-funktsiy-dlya-nachinayushchikh/)
+
+#### gRPC
+
+- [Введение в gRPC: Основы, применение, плюсы и минусы. Часть I](https://habr.com/ru/articles/819821/)
+- [Основы работы с gRPC на Python: создание сервиса с использованием FastAPI. Часть II](https://habr.com/ru/articles/821065/)
+- [gRPC в качестве протокола межсервисного взаимодействия. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/484068/)
+- [GRPC](https://ru.wikipedia.org/wiki/GRPC) (wikipedia)
